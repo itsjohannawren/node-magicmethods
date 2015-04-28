@@ -1,6 +1,6 @@
 {
 	"name": "magicmethods",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Magic methods for NodeJS",
 	"author": {
 		"name": "Jeff Walter",
