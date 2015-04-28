@@ -14,9 +14,21 @@
 	},
 	"dependencies": {
 	},
+	"keywords": [
+		"magic",
+		"methods",
+		"magicmethods",
+		"stack",
+		"line",
+		"function",
+		"class",
+		"file",
+		"path"
+	],
 	"readmeFilename": "README.md",
 	"bugs": {
 		"url": "https://github.com/jeffwalter/node-magicmethods/issues"
 	},
-	"homepage": "https://github.com/jeffwalter/node-magicmethods"
+	"homepage": "https://github.com/jeffwalter/node-magicmethods",
+	"license": "MIT"
 }
