@@ -31,7 +31,7 @@ Usage
 Global Properties
 -----------------
 
-### __STACK__
+### \__STACK__
 Returns the full stack as an array. It's a lot of information:
 
     [
@@ -219,7 +219,7 @@ Returns the full stack as an array. It's a lot of information:
 
 So yeah, lots of information.
 
-### __INFO__
+### \__INFO__
 Basic information line that contains `__PATH__:__LINE__ [__CLASS__.]__FUNCTION__`.
 
     /Users/jwalter/Projects/node-magicmethods/test.js:6 Test.(anonymous)
@@ -227,23 +227,23 @@ Basic information line that contains `__PATH__:__LINE__ [__CLASS__.]__FUNCTION__
     /Users/jwalter/Projects/node-magicmethods/test.js:31 (anonymous)
     /Users/jwalter/Projects/node-magicmethods/test.js:43 NFunction
 
-### __CLASS__
+### \__CLASS__
 Returns the name of the class for the encompassing object.
 
-### __FUNCTION__
+### \__FUNCTION__
 Returns the name of the function or `(anonymous)`. This only works for named functions defined via `function NAME (ARGS) {}`.
 
-### __LINE__
+### \__LINE__
 Returns the line number the property is called from.
 
-### __PATH__
+### \__PATH__
 Returns the full path to the file the property is called from.
 
-### __FILE__
+### \__FILE__
 Returns just the name of the file the property is called from.
 
-### __EXT__
+### \__EXT__
 Returns just the extension of the file the property is called from.
 
-### __DIR__
+### \__DIR__
 Returns the directory of the file the property is called from.
