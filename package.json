@@ -1,0 +1,22 @@
+{
+	"name": "magicmethods",
+	"version": "0.1.0",
+	"description": "Magic methods for NodeJS",
+	"author": {
+		"name": "Jeff Walter",
+		"email": "jeff@404ster.com",
+		"url": "http://jeffw.org/"
+	},
+	"main": "./index.js",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/jeffwalter/node-magicmethods.git"
+	},
+	"dependencies": {
+	},
+	"readmeFilename": "README.md",
+	"bugs": {
+		"url": "https://github.com/jeffwalter/node-magicmethods/issues"
+	},
+	"homepage": "https://github.com/jeffwalter/node-magicmethods"
+}
